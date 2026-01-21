@@ -8,7 +8,7 @@
   <h3>Estudante de Ciência da Computação | Java Developer em formação</h3>
 
   <p align="center">
-    <a href="SEU_LINK_DO_LINKEDIN_AQUI">
+    <a href="https://www.linkedin.com/in/marcelomindas/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:marcelomindas13@gmail.com">
@@ -25,9 +25,9 @@ Sou estudante do 4º período de Ciência da Computação na **FAESA**. Busco mi
 
 Possuo foco sólido no ecossistema **Java**, com domínio de **Programação Orientada a Objetos (POO)** e integração com bancos de dados **MySQL**. Atualmente, estou aprofundando meus conhecimentos no framework **Spring Boot** para o desenvolvimento de aplicações back-end modernas e eficientes.
 
-- 🔭 **Foco Atual:** Desenvolvimento Back-end com Java e estruturação de bancos de dados relacionais.
-- 🌱 **Evolução Técnica:** Estudando arquiteturas web e o framework Spring para criação de APIs.
-- ⚡ **Soft Skills:** Perfil comunicador e planejador, com facilidade em organização e trabalho em equipe.
+- **Foco Atual:** Desenvolvimento Back-end com Java e estruturação de bancos de dados relacionais.
+-  **Evolução Técnica:** Estudando orientação a objetos e o framework Spring para criação de APIs.
+
 
 ---
 
@@ -43,4 +43,5 @@ Possuo foco sólido no ecossistema **Java**, com domínio de **Programação Ori
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
   </a>
   <a href="https://
-  
+
+  ---
