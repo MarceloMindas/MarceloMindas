@@ -5,7 +5,7 @@
 
   <br>
 
-  <h3>Estudante de Ciência da Computação | Java Developer em formação</h3>
+  <h3>Estudante de Ciência da Computação | Developer em formação</h3>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/marcelomindas/">
@@ -23,10 +23,10 @@
 
 Sou estudante do 4º período de Ciência da Computação na **FAESA**. Busco minha primeira oportunidade como **Estagiário em Desenvolvimento de Sistemas** para aplicar e expandir minhas habilidades técnicas em ambientes reais e colaborativos.
 
-Possuo foco sólido no ecossistema **Java**, com domínio de **Programação Orientada a Objetos (POO)** e integração com bancos de dados **MySQL**. Atualmente, estou aprofundando meus conhecimentos no framework **Spring Boot** para o desenvolvimento de aplicações back-end modernas e eficientes.
+Possuo foco sólido no ecossistema **Java** e **C#**, com domínio de **Programação Orientada a Objetos (POO)** e integração com bancos de dados **SQL Server**. Atualmente, estou aprofundando meus conhecimentos no framework **ASP.NET Core** e **Entity Framework** para o desenvolvimento de aplicações back-end modernas e eficientes.
 
-- **Foco Atual:** Desenvolvimento Back-end com Java e estruturação de bancos de dados relacionais.
--  **Evolução Técnica:** Estudando orientação a objetos e o framework Spring para criação de APIs.
+- **Foco Atual:** Desenvolvimento Back-end com C# e estruturação de bancos de dados relacionais.
+-  **Evolução Técnica:** Estudando orientação a objetos e os framework ASP.NET Core e Entity Framework.
 
 
 ---
