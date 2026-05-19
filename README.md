@@ -6,7 +6,6 @@
   <br><br>
 
   <h3>💻 Estudante de Ciência da Computação | Back-end Developer em formação</h3>
-
   <p align="center">
     <a href="https://www.linkedin.com/in/marcelomindas/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
